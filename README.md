@@ -4,9 +4,9 @@ emoji: 🚀
 colorFrom: blue
 colorTo: indigo
 sdk: gradio
-
 app_file: app.py
 pinned: false
+sdk_version: 5.49.1
 ---
 
 # Đồ án Nhóm 9 - Ảo hóa & Điện toán đám mây
